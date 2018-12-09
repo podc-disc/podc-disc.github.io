@@ -39,6 +39,11 @@ a:link, a:visited {
     color: #0088cc;
 }
 
+a:hover, a:active {
+    color: #fff;
+    background-color: #0088cc;
+}
+
 .title {
     margin-top: 50px;
     margin-bottom: 15px;
