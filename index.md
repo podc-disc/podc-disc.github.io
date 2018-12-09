@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # PODC
 
 [ACM Symposium on Principles of Distributed Computing](http://www.podc.org/)
