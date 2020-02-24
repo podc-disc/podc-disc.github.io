@@ -61,3 +61,23 @@ h1 {
     margin-top: 1px;
     margin-bottom: 1px;
 }
+
+.subitem {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 85%;
+}
+
+.subitem::before {
+    content: "·";
+    text-align: right;
+    display: inline-block;
+    width: 20px;
+    margin-left: -20px;
+    margin-right: 5px;
+}
+
+.group {
+    margin-bottom: 20px;
+}
