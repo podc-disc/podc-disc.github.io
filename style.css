@@ -19,6 +19,7 @@ body {
     padding-bottom: 10px;
     margin: 0px;
     line-height: 1.2;
+    font-weight: 400;
 }
 
 #wrap {
@@ -46,15 +47,16 @@ a:hover, a:active {
 
 .title {
     margin-top: 50px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 h1 {
-    font-size: 200%;
+    font-size: 250%;
 }
 
 .subtitle {
-    font-size: 85%;
+    font-size: 95%;
+    font-weight: 600;
 }
 
 .item {
